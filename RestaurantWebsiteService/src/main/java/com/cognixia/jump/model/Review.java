@@ -35,6 +35,7 @@ public class Review implements Serializable{
 	
 	@Column(name="RATING")
 	Double rating;
+	// Old relationships that are overdone
 	
 	
 //	//users has the reviews
